@@ -7,5 +7,8 @@
 7. git diff /git diff [file] - показывает изменения в файлах или в определенном файле
 8. git branch / git branch [name] - Просмтор веток и текущей ветки / Создание ветки
 9. git checkout [branch] - переход к другой ветке
+<<<<<<< HEAD
 10. git pull [rep_link] [branch_name] - Забирает все изменения в ветке с github
 11. git branch -d [branch_name] - Удаление ветки
+=======
+>>>>>>> b4623ff9b40c0ac1360753b501b0a27fd6b827c6
